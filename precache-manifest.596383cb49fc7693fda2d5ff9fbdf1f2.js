@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "87d8e07080d4f6447f0e",
-    "url": "/static/js/app.b6bd790f.chunk.js"
+    "revision": "840c6163e75cdfd4df2c",
+    "url": "/static/js/app.b8a0bdbd.chunk.js"
   },
   {
     "revision": "dc6d7c46a725d6866bcd",
     "url": "/static/js/runtime~app.44ddfa1e.js"
   },
   {
-    "revision": "a81d25a8da6fa2efd76d",
-    "url": "/static/js/2.5a136f0f.chunk.js"
+    "revision": "727f5e92566151b91b06",
+    "url": "/static/js/2.5e619a12.chunk.js"
   },
   {
     "revision": "7f537a5f2d0cff0db73fc46b645127ec",
@@ -58,6 +58,10 @@ self.__precacheManifest = [
   {
     "revision": "0eec4c8143d0a3e41972a7cec0d753d3",
     "url": "/static/media/balance.0eec4c81.png"
+  },
+  {
+    "revision": "12163414333cf55087e8e6f4ee6c512a",
+    "url": "/static/media/water.12163414.png"
   },
   {
     "revision": "0ec6bc8bd03c733b58077e7f1014f515",
@@ -152,12 +156,12 @@ self.__precacheManifest = [
     "url": "/./fonts/SimpleLineIcons.ttf"
   },
   {
-    "revision": "d0c694b562b2208635f250762cd7fc79",
-    "url": "/serve.json"
-  },
-  {
     "revision": "48c7ed4e7da9792af288a60d7242d615",
     "url": "/expo-service-worker.js"
+  },
+  {
+    "revision": "d0c694b562b2208635f250762cd7fc79",
+    "url": "/serve.json"
   },
   {
     "revision": "258d8eb93ee4697516afa0bccff9267d",
@@ -172,11 +176,11 @@ self.__precacheManifest = [
     "url": "/favicon.ico"
   },
   {
-    "revision": "259c01f61a142e6058b56aacaf938c33",
+    "revision": "e8eb2f819db54626d2eb6050dd4f3728",
     "url": "/index.html"
   },
   {
-    "revision": "1cc6bd58882b44ace78a8468aaca7fbf",
+    "revision": "daa2819c82d35fae11e4520c2df8860b",
     "url": "/manifest.json"
   },
   {

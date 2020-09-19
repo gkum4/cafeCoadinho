@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/static/js/app.b6bd790f.chunk.js",
-    "app.js.map": "/static/js/app.b6bd790f.chunk.js.map",
+    "app.js": "/static/js/app.b8a0bdbd.chunk.js",
+    "app.js.map": "/static/js/app.b8a0bdbd.chunk.js.map",
     "runtime~app.js": "/static/js/runtime~app.44ddfa1e.js",
     "runtime~app.js.map": "/static/js/runtime~app.44ddfa1e.js.map",
-    "static/js/2.5a136f0f.chunk.js": "/static/js/2.5a136f0f.chunk.js",
-    "static/js/2.5a136f0f.chunk.js.map": "/static/js/2.5a136f0f.chunk.js.map",
+    "static/js/2.5e619a12.chunk.js": "/static/js/2.5e619a12.chunk.js",
+    "static/js/2.5e619a12.chunk.js.map": "/static/js/2.5e619a12.chunk.js.map",
     "fonts/AntDesign.ttf": "/./fonts/AntDesign.ttf",
     "fonts/ChelseaMarket_400Regular.ttf": "/./fonts/ChelseaMarket_400Regular.ttf",
     "fonts/Entypo.ttf": "/./fonts/Entypo.ttf",
@@ -46,11 +46,12 @@
     "static/media/page7.JPG": "/static/media/page7.8739a1cb.JPG",
     "static/media/page8.JPG": "/static/media/page8.6aa801ea.JPG",
     "static/media/page9.jpg": "/static/media/page9.aa7d3723.jpg",
-    "static/media/po.png": "/static/media/po.81671ae2.png"
+    "static/media/po.png": "/static/media/po.81671ae2.png",
+    "static/media/water.png": "/static/media/water.12163414.png"
   },
   "entrypoints": [
     "static/js/runtime~app.44ddfa1e.js",
-    "static/js/2.5a136f0f.chunk.js",
-    "static/js/app.b6bd790f.chunk.js"
+    "static/js/2.5e619a12.chunk.js",
+    "static/js/app.b8a0bdbd.chunk.js"
   ]
 }

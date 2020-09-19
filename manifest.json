@@ -2,8 +2,8 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
-  "name": "cafeCoadinho",
-  "short_name": "cafeCoadinho",
+  "name": "Café Coadinho",
+  "short_name": "Café Coadinho",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait",
   "icons": [
